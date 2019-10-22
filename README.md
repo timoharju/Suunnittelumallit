@@ -1,3 +1,1 @@
-# Suunnittelumallit Course #
-
-## Suunnitellumallit kurssin tehtävät ##
+# Suunnitellumallit kurssin tehtävät #
